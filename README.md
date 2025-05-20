@@ -116,7 +116,4 @@ wordcloud
 
 Install dependencies via:
 
-bash
-Copy
-Edit
 pip install pandas matplotlib seaborn wordcloud
